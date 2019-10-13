@@ -20,4 +20,6 @@ class Shoe
   
 end
 
-Shoe.condition
+Nike = Shoe.new("nike")
+
+Nike.condition
