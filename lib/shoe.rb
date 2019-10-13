@@ -6,7 +6,4 @@ class Shoe
     @brand = brand
   end
   
-  def condition
-    ""
-  end
 end
