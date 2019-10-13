@@ -20,4 +20,4 @@ class Shoe
   
 end
 
-shoe.condition
+Shoe.condition
