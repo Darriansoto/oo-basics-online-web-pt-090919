@@ -21,5 +21,6 @@ class Shoe
 end
 
 Nike = Shoe.new("nike")
-
+"test"
 Nike.condition
+"test 2"
