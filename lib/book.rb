@@ -8,6 +8,8 @@ class Book
     @title
   end
   
-  
+  def author 
+    @author
+  end
   
 end
